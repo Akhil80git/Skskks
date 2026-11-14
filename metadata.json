@@ -1,0 +1,6 @@
+{
+  "name": "SnapGrid — Site Launcher & Auto-Screenshot Directory",
+  "description": "Minimalist fixed-search visual site launcher that opens websites instantly, auto-captures page screenshots into cards, suggests sites as you type, and scales to hundreds of thousands of cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
